@@ -8,4 +8,5 @@ If you pull from the wrong branch, you may be declined.
 How to fork a repo:
 
 Click the fork button on the top right corner of the page with a branch of your role
-<img src="https://github.com/spaceholddevelopment/roblox-studio-projects/blob/main/Screenshot%202021-01-18%20112006.png">
+Then follow these steps
+https://jarv.is/notes/how-to-pull-request-fork-github/
