@@ -1,2 +1,2 @@
-# roblox-studio-projects
-Make pull requests to add roblox studio projects :)
+# Admin Projects
+If your an admin you can pull from this branch for the owner review.
