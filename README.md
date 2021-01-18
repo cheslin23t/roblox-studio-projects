@@ -1,2 +1,2 @@
-# roblox-studio-projects
-Make pull requests to add roblox studio projects :)
+# Public - Projects
+These projects are either approved by a admin or the ownenr
